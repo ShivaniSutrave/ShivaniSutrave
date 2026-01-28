@@ -1,7 +1,7 @@
 ## Hi, I'm Shivani 👋
 
 🎓 MS in Computer Science @ Texas A&M University–San Antonio  
-🤖 Interests: AI, Machine Learning, LLMs, Cloud Computing, DevOps  
+🤖 Interests: Artificial Intelligence, Machine Learning, LLMs, Cloud Computing, DevOps, Data Analytics
 🔬 Focus: Research-driven AI projects, system analysis, and scalable solutions  
 
 ### 🔧 Technical Skills
