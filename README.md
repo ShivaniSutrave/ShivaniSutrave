@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Shivani 👋
 
-<!--
-**ShivaniSutrave/ShivaniSutrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Computer Science @ Texas A&M University–San Antonio  
+🤖 Interests: AI, Machine Learning, LLMs, Cloud Computing, DevOps  
+🔬 Focus: Research-driven AI projects, system analysis, and scalable solutions  
 
-Here are some ideas to get you started:
+### 🔧 Technical Skills
+- Languages: Python, SQL, C/C++
+- AI/ML: Machine Learning, Deep Learning, NLP, LLM Evaluation
+- Cloud: AWS, Azure
+- DevOps: Docker, Kubernetes, CI/CD
+- Databases: MySQL, PostgreSQL, Neo4j
+- Tools: Linux, Git, Power BI, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- LLM-Generated Code vs Human Code Benchmarking  
+- Deep Learning for Wildfire Prediction  
+- Software Dependency Graph Visualization (Neo4j)  
+- Static & Dynamic Analysis of Concurrent Rust Programs  
+
+📫 Email: sutraveshivani2002@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/shivani-sutrave-4ab822323/
