@@ -125,46 +125,72 @@ class ShivaniSutrave:
 
 <br/>
 
-## 📌 Featured Projects
+## 📌 Projects
 
 <table>
 <tr>
+<td width="50%">
+
+### 💰 [SME Loan Default Prediction](https://github.com/ShivaniSutrave/SME-Loan-Default-Prediction-with-Alternative-Data)
+ML system predicting SME loan default risk using alternative data (GST filing, UPI transactions, cash flow) with SHAP explainability.
+<br/>`Jupyter Notebook` `XGBoost` `LightGBM` `SHAP`
+
+</td>
 <td width="50%">
 
 ### 🔬 [LLM Code Benchmarking](https://github.com/ShivaniSutrave/LLM-code-benchmarking)
 Benchmarking LLM-generated code against human-written implementations using performance and correctness metrics.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🔥 [Wildfire Prediction Deep Learning](https://github.com/ShivaniSutrave/wildfire-prediction-deep-learning)
 Deep learning-based wildfire risk prediction using satellite imagery.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
-
-### 🕸️ Software Dependency Graph Visualization
-Graph-based visualization and analysis of software dependencies using Neo4j.
-
-</td>
-<td width="50%">
-
-### 🦀 Concurrent Rust Program Analysis
-Static & dynamic analysis tooling for detecting concurrency issues in Rust programs.
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
 
 ### 🤖 [AI Agents & Chatbots](https://github.com/ShivaniSutrave/ai-agents-and-chatbots)
 Development of AI agents and conversational chatbots for automation, analytics, and information retrieval.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🧠 [TwinMind Live Suggestions](https://github.com/ShivaniSutrave/twinmind-live-suggestions)
+Full-stack JavaScript app delivering live, context-aware suggestions. [**Live demo →**](https://twinmind-live-suggestions-silk.vercel.app)
+<br/>`JavaScript`
+
+</td>
+<td width="50%">
+
+### 💪 [FitMind AI](https://github.com/ShivaniSutrave/FitMind-AI)
+SwiftUI prototype mapping emotional wellness to physical activity — recommends workouts (yoga for stress, lifting for energy) using Swift Charts to track emotional trends.
+<br/>`Swift`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🏥 [Silent Hospital OS](https://github.com/ShivaniSutrave/silent-hospital-os)
+Python-based hospital operations system *(latest project — add a description on GitHub for it to show up here)*.
+<br/>`Python`
+
+</td>
+</tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+📂 **[View all repositories →](https://github.com/ShivaniSutrave?tab=repositories)**
+
+</div>
 
 <br/>
 
