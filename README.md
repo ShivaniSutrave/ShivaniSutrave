@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Hi%20there,%20I'm%20Shivani%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Researcher;LLM+Evaluation+%7C+Deep+Learning+%7C+Cloud+%26+DevOps;Building+Research-Driven%2C+Scalable+AI+Systems;MS+CS+%40+Texas+A%26M+University-San+Antonio&font=Fira+Code&center=true&width=700&height=50&color=2CB67D&vCenter=true&size=22&pause=1500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Researcher;Full+Stack+AI+Engineer;LLM+Evaluation+%7C+Deep+Learning+%7C+Cloud+%26+DevOps;Building+Research-Driven%2C+Scalable+AI+Systems;MS+CS+%40+Texas+A%26M+University-San+Antonio&font=Fira+Code&center=true&width=700&height=50&color=2CB67D&vCenter=true&size=22&pause=1500" />
 
 <br/>
 
@@ -20,6 +20,7 @@
 class ShivaniSutrave:
     def __init__(self):
         self.role        = "MS Computer Science @ Texas A&M University–San Antonio"
+        self.title       = "Full Stack AI Engineer"
         self.focus       = ["Research-driven AI", "System Analysis", "Scalable Solutions"]
         self.interests   = ["Artificial Intelligence", "Machine Learning", "LLMs",
                              "Cloud Computing", "DevOps", "Data Analytics"]
